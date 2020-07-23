@@ -9,7 +9,7 @@ https://www.azul.com/products/zulu-mission-control/
 ## Installation:
 
 ```bash
-brew tap mdogan/zulu
+brew tap pgumeniuk/zulu
 brew cask install <name>
 ```
 
