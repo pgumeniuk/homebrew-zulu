@@ -24,4 +24,5 @@ brew cask install <name>
 | OpenJDK13 | `zulu-jdk13` |
 | OpenJDK14 | `zulu-jdk14` |
 | OpenJDK15-EA | `zulu-jdk15ea` |
+| OpenJDK16-EA | `zulu-jdk16ea` |
 | Misson Control | `zulu-mc` |
